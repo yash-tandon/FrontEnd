@@ -1,0 +1,31 @@
+body {
+	border: 20px solid #bdc3c7;
+	width: 55%;
+	margin: 20px auto;
+	padding: 20px;
+}
+
+h2{
+	font-family: source sans pro;
+	font-size: 27px;
+}
+
+p {
+	font-family: source sans pro;
+	font-weight: 800;
+}
+
+#one {
+	color: #3498db;
+	text-transform: uppercase;
+}
+
+#two {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+
+#three {
+	border-bottom: 2px solid #bdc3c7;
+	padding-bottom: 20px;
+}
